@@ -1,0 +1,25 @@
+# API credentials
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environments
+venv/
+.venv/
+env/

@@ -1,0 +1,196 @@
+job_category,skill,jobs,percentage
+Adjacent Data / Tech Role,SQL,164,10.73
+Adjacent Data / Tech Role,Python,120,7.85
+Adjacent Data / Tech Role,Excel,12,0.78
+Adjacent Data / Tech Role,Power BI,29,1.9
+Adjacent Data / Tech Role,Tableau,19,1.24
+Adjacent Data / Tech Role,AWS,73,4.77
+Adjacent Data / Tech Role,Azure,83,5.43
+Adjacent Data / Tech Role,GCP,37,2.42
+Adjacent Data / Tech Role,Snowflake,56,3.66
+Adjacent Data / Tech Role,Databricks,71,4.64
+Adjacent Data / Tech Role,ETL,121,7.91
+Adjacent Data / Tech Role,Statistics,19,1.24
+Adjacent Data / Tech Role,Machine Learning,75,4.91
+BI / Reporting / MIS,SQL,8,4.94
+BI / Reporting / MIS,Python,2,1.23
+BI / Reporting / MIS,Excel,7,4.32
+BI / Reporting / MIS,Power BI,14,8.64
+BI / Reporting / MIS,Tableau,6,3.7
+BI / Reporting / MIS,AWS,1,0.62
+BI / Reporting / MIS,Azure,0,0.0
+BI / Reporting / MIS,GCP,0,0.0
+BI / Reporting / MIS,Snowflake,0,0.0
+BI / Reporting / MIS,Databricks,0,0.0
+BI / Reporting / MIS,ETL,3,1.85
+BI / Reporting / MIS,Statistics,2,1.23
+BI / Reporting / MIS,Machine Learning,2,1.23
+Business Analyst,SQL,58,4.2
+Business Analyst,Python,18,1.3
+Business Analyst,Excel,43,3.11
+Business Analyst,Power BI,20,1.45
+Business Analyst,Tableau,13,0.94
+Business Analyst,AWS,5,0.36
+Business Analyst,Azure,9,0.65
+Business Analyst,GCP,2,0.14
+Business Analyst,Snowflake,2,0.14
+Business Analyst,Databricks,2,0.14
+Business Analyst,ETL,14,1.01
+Business Analyst,Statistics,15,1.09
+Business Analyst,Machine Learning,17,1.23
+Data Analyst,SQL,111,16.54
+Data Analyst,Python,69,10.28
+Data Analyst,Excel,68,10.13
+Data Analyst,Power BI,73,10.88
+Data Analyst,Tableau,50,7.45
+Data Analyst,AWS,8,1.19
+Data Analyst,Azure,6,0.89
+Data Analyst,GCP,4,0.6
+Data Analyst,Snowflake,7,1.04
+Data Analyst,Databricks,11,1.64
+Data Analyst,ETL,13,1.94
+Data Analyst,Statistics,49,7.3
+Data Analyst,Machine Learning,24,3.58
+Finance / Accounting Analyst,SQL,2,0.29
+Finance / Accounting Analyst,Python,0,0.0
+Finance / Accounting Analyst,Excel,9,1.31
+Finance / Accounting Analyst,Power BI,2,0.29
+Finance / Accounting Analyst,Tableau,0,0.0
+Finance / Accounting Analyst,AWS,2,0.29
+Finance / Accounting Analyst,Azure,0,0.0
+Finance / Accounting Analyst,GCP,0,0.0
+Finance / Accounting Analyst,Snowflake,0,0.0
+Finance / Accounting Analyst,Databricks,0,0.0
+Finance / Accounting Analyst,ETL,0,0.0
+Finance / Accounting Analyst,Statistics,4,0.58
+Finance / Accounting Analyst,Machine Learning,1,0.15
+HR / People Analyst,SQL,0,0.0
+HR / People Analyst,Python,0,0.0
+HR / People Analyst,Excel,1,3.85
+HR / People Analyst,Power BI,0,0.0
+HR / People Analyst,Tableau,0,0.0
+HR / People Analyst,AWS,0,0.0
+HR / People Analyst,Azure,0,0.0
+HR / People Analyst,GCP,0,0.0
+HR / People Analyst,Snowflake,0,0.0
+HR / People Analyst,Databricks,0,0.0
+HR / People Analyst,ETL,0,0.0
+HR / People Analyst,Statistics,0,0.0
+HR / People Analyst,Machine Learning,0,0.0
+IT / Systems Analyst,SQL,10,3.86
+IT / Systems Analyst,Python,2,0.77
+IT / Systems Analyst,Excel,2,0.77
+IT / Systems Analyst,Power BI,0,0.0
+IT / Systems Analyst,Tableau,0,0.0
+IT / Systems Analyst,AWS,1,0.39
+IT / Systems Analyst,Azure,1,0.39
+IT / Systems Analyst,GCP,0,0.0
+IT / Systems Analyst,Snowflake,1,0.39
+IT / Systems Analyst,Databricks,1,0.39
+IT / Systems Analyst,ETL,1,0.39
+IT / Systems Analyst,Statistics,0,0.0
+IT / Systems Analyst,Machine Learning,4,1.54
+Non-Analyst Role,SQL,129,4.62
+Non-Analyst Role,Python,74,2.65
+Non-Analyst Role,Excel,33,1.18
+Non-Analyst Role,Power BI,48,1.72
+Non-Analyst Role,Tableau,26,0.93
+Non-Analyst Role,AWS,34,1.22
+Non-Analyst Role,Azure,44,1.57
+Non-Analyst Role,GCP,13,0.47
+Non-Analyst Role,Snowflake,34,1.22
+Non-Analyst Role,Databricks,32,1.14
+Non-Analyst Role,ETL,68,2.43
+Non-Analyst Role,Statistics,38,1.36
+Non-Analyst Role,Machine Learning,63,2.25
+Operations / Supply Chain Analyst,SQL,5,1.27
+Operations / Supply Chain Analyst,Python,1,0.25
+Operations / Supply Chain Analyst,Excel,5,1.27
+Operations / Supply Chain Analyst,Power BI,2,0.51
+Operations / Supply Chain Analyst,Tableau,1,0.25
+Operations / Supply Chain Analyst,AWS,2,0.51
+Operations / Supply Chain Analyst,Azure,1,0.25
+Operations / Supply Chain Analyst,GCP,0,0.0
+Operations / Supply Chain Analyst,Snowflake,0,0.0
+Operations / Supply Chain Analyst,Databricks,1,0.25
+Operations / Supply Chain Analyst,ETL,1,0.25
+Operations / Supply Chain Analyst,Statistics,0,0.0
+Operations / Supply Chain Analyst,Machine Learning,1,0.25
+Other Analyst,SQL,51,1.68
+Other Analyst,Python,26,0.86
+Other Analyst,Excel,58,1.91
+Other Analyst,Power BI,23,0.76
+Other Analyst,Tableau,9,0.3
+Other Analyst,AWS,11,0.36
+Other Analyst,Azure,13,0.43
+Other Analyst,GCP,10,0.33
+Other Analyst,Snowflake,5,0.16
+Other Analyst,Databricks,4,0.13
+Other Analyst,ETL,15,0.49
+Other Analyst,Statistics,31,1.02
+Other Analyst,Machine Learning,20,0.66
+Product Analyst,SQL,5,4.5
+Product Analyst,Python,1,0.9
+Product Analyst,Excel,0,0.0
+Product Analyst,Power BI,0,0.0
+Product Analyst,Tableau,2,1.8
+Product Analyst,AWS,0,0.0
+Product Analyst,Azure,0,0.0
+Product Analyst,GCP,0,0.0
+Product Analyst,Snowflake,0,0.0
+Product Analyst,Databricks,0,0.0
+Product Analyst,ETL,1,0.9
+Product Analyst,Statistics,1,0.9
+Product Analyst,Machine Learning,2,1.8
+Quality / Testing Analyst,SQL,10,2.6
+Quality / Testing Analyst,Python,3,0.78
+Quality / Testing Analyst,Excel,14,3.65
+Quality / Testing Analyst,Power BI,0,0.0
+Quality / Testing Analyst,Tableau,0,0.0
+Quality / Testing Analyst,AWS,1,0.26
+Quality / Testing Analyst,Azure,5,1.3
+Quality / Testing Analyst,GCP,0,0.0
+Quality / Testing Analyst,Snowflake,1,0.26
+Quality / Testing Analyst,Databricks,0,0.0
+Quality / Testing Analyst,ETL,2,0.52
+Quality / Testing Analyst,Statistics,1,0.26
+Quality / Testing Analyst,Machine Learning,3,0.78
+Research Analyst,SQL,0,0.0
+Research Analyst,Python,4,4.21
+Research Analyst,Excel,2,2.11
+Research Analyst,Power BI,0,0.0
+Research Analyst,Tableau,0,0.0
+Research Analyst,AWS,0,0.0
+Research Analyst,Azure,0,0.0
+Research Analyst,GCP,0,0.0
+Research Analyst,Snowflake,0,0.0
+Research Analyst,Databricks,0,0.0
+Research Analyst,ETL,0,0.0
+Research Analyst,Statistics,4,4.21
+Research Analyst,Machine Learning,7,7.37
+Risk / Compliance Analyst,SQL,1,0.35
+Risk / Compliance Analyst,Python,3,1.04
+Risk / Compliance Analyst,Excel,3,1.04
+Risk / Compliance Analyst,Power BI,1,0.35
+Risk / Compliance Analyst,Tableau,0,0.0
+Risk / Compliance Analyst,AWS,1,0.35
+Risk / Compliance Analyst,Azure,3,1.04
+Risk / Compliance Analyst,GCP,0,0.0
+Risk / Compliance Analyst,Snowflake,0,0.0
+Risk / Compliance Analyst,Databricks,1,0.35
+Risk / Compliance Analyst,ETL,0,0.0
+Risk / Compliance Analyst,Statistics,0,0.0
+Risk / Compliance Analyst,Machine Learning,3,1.04
+Sales / Marketing Analyst,SQL,1,1.14
+Sales / Marketing Analyst,Python,1,1.14
+Sales / Marketing Analyst,Excel,2,2.27
+Sales / Marketing Analyst,Power BI,0,0.0
+Sales / Marketing Analyst,Tableau,2,2.27
+Sales / Marketing Analyst,AWS,0,0.0
+Sales / Marketing Analyst,Azure,0,0.0
+Sales / Marketing Analyst,GCP,0,0.0
+Sales / Marketing Analyst,Snowflake,0,0.0
+Sales / Marketing Analyst,Databricks,0,0.0
+Sales / Marketing Analyst,ETL,0,0.0
+Sales / Marketing Analyst,Statistics,1,1.14
+Sales / Marketing Analyst,Machine Learning,0,0.0

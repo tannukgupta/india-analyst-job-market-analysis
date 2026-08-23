@@ -1,0 +1,383 @@
+city,job_category,job_count
+Bangalore,Non-Analyst Role,531
+Bangalore,Other Analyst,522
+Bangalore,Adjacent Data / Tech Role,371
+Hyderabad,Other Analyst,328
+Hyderabad,Non-Analyst Role,324
+Bangalore,Business Analyst,299
+Mumbai,Other Analyst,271
+Pune,Other Analyst,222
+Hyderabad,Adjacent Data / Tech Role,195
+Mumbai,Non-Analyst Role,184
+Bangalore,Finance / Accounting Analyst,166
+Chennai,Other Analyst,155
+Bangalore,Data Analyst,152
+Pune,Adjacent Data / Tech Role,145
+Hyderabad,Business Analyst,135
+Pune,Non-Analyst Role,132
+Chennai,Non-Analyst Role,127
+Chennai,Adjacent Data / Tech Role,92
+Mumbai,Business Analyst,86
+Pune,Business Analyst,86
+Gurgaon,Other Analyst,77
+Mumbai,Adjacent Data / Tech Role,68
+Ghaziabad,Non-Analyst Role,67
+Bangalore,Operations / Supply Chain Analyst,65
+Bangalore,Risk / Compliance Analyst,64
+Bangalore,Quality / Testing Analyst,63
+Hyderabad,Finance / Accounting Analyst,61
+Chennai,Business Analyst,60
+Bangalore,IT / Systems Analyst,57
+Hyderabad,Data Analyst,53
+Mumbai,Data Analyst,52
+Gurgaon,Non-Analyst Role,49
+Ghaziabad,Business Analyst,47
+Bangalore,BI / Reporting / MIS,43
+Delhi,Other Analyst,40
+Mumbai,Finance / Accounting Analyst,39
+Delhi,Non-Analyst Role,38
+Ghaziabad,Other Analyst,36
+Pune,Data Analyst,36
+Bangalore,Product Analyst,36
+Chennai,Data Analyst,35
+Hyderabad,IT / Systems Analyst,35
+Mumbai,Risk / Compliance Analyst,32
+Pune,Operations / Supply Chain Analyst,32
+Ghaziabad,Adjacent Data / Tech Role,32
+Pune,Quality / Testing Analyst,32
+Gurgaon,Business Analyst,31
+Hyderabad,Quality / Testing Analyst,31
+Ghaziabad,Data Analyst,30
+Mumbai,Quality / Testing Analyst,29
+Chennai,Quality / Testing Analyst,29
+Hyderabad,Product Analyst,28
+Ahmedabad,Non-Analyst Role,28
+Pune,Risk / Compliance Analyst,28
+Pune,Finance / Accounting Analyst,28
+Ahmedabad,Adjacent Data / Tech Role,27
+Gurgaon,Data Analyst,26
+Pune,IT / Systems Analyst,26
+Delhi,Adjacent Data / Tech Role,25
+Chennai,Finance / Accounting Analyst,24
+Hyderabad,Operations / Supply Chain Analyst,24
+Ahmedabad,Business Analyst,24
+Indore,Other Analyst,23
+Hyderabad,Risk / Compliance Analyst,21
+Kolkata,Non-Analyst Role,21
+Mumbai,Research Analyst,20
+Navi Mumbai,Business Analyst,19
+Delhi,Business Analyst,18
+Ghaziabad,Quality / Testing Analyst,18
+Kolkata,Adjacent Data / Tech Role,17
+Chennai,IT / Systems Analyst,17
+Mumbai,Operations / Supply Chain Analyst,16
+Chennai,BI / Reporting / MIS,16
+Delhi,Data Analyst,16
+Navi Mumbai,Non-Analyst Role,15
+Chennai,Operations / Supply Chain Analyst,15
+Gurgaon,Finance / Accounting Analyst,15
+Kolkata,Business Analyst,15
+Chandigarh,Other Analyst,15
+Coimbatore,Non-Analyst Role,15
+Coimbatore,Other Analyst,14
+Gurgaon,Adjacent Data / Tech Role,14
+Jaipur,Business Analyst,14
+Kochi,Non-Analyst Role,14
+Ahmedabad,Other Analyst,14
+Jaipur,Adjacent Data / Tech Role,13
+Delhi,Risk / Compliance Analyst,13
+Hyderabad,BI / Reporting / MIS,13
+Navi Mumbai,Adjacent Data / Tech Role,13
+Vadodara,Other Analyst,13
+Mumbai,BI / Reporting / MIS,13
+Bangalore,Research Analyst,12
+Kolkata,Other Analyst,12
+Gurgaon,Quality / Testing Analyst,12
+Pune,Sales / Marketing Analyst,11
+Pune,BI / Reporting / MIS,11
+Indore,Non-Analyst Role,11
+Bangalore,HR / People Analyst,11
+Chandigarh,Adjacent Data / Tech Role,11
+Kolkata,Data Analyst,11
+Pune,Research Analyst,10
+Jaipur,Non-Analyst Role,10
+Hyderabad,Sales / Marketing Analyst,10
+Delhi,Quality / Testing Analyst,10
+Delhi,Finance / Accounting Analyst,9
+Kochi,Business Analyst,9
+Jaipur,Quality / Testing Analyst,9
+Ahmedabad,Data Analyst,9
+Thane,Other Analyst,8
+Coimbatore,Adjacent Data / Tech Role,8
+Navi Mumbai,Other Analyst,8
+Vadodara,Non-Analyst Role,8
+Mohali,Business Analyst,8
+Gurgaon,Operations / Supply Chain Analyst,8
+Ghaziabad,Finance / Accounting Analyst,8
+Ghaziabad,Operations / Supply Chain Analyst,7
+Bangalore,Sales / Marketing Analyst,7
+Navi Mumbai,Quality / Testing Analyst,7
+Chennai,Risk / Compliance Analyst,7
+Chennai,Product Analyst,7
+Vadodara,Data Analyst,6
+Kochi,Finance / Accounting Analyst,6
+Ghaziabad,BI / Reporting / MIS,6
+Chandigarh,Non-Analyst Role,6
+Hyderabad,Research Analyst,6
+Kochi,Other Analyst,6
+Ghaziabad,Risk / Compliance Analyst,6
+Chandigarh,Quality / Testing Analyst,5
+Mohali,Other Analyst,5
+Ajmer,Data Analyst,5
+Ahmedabad,IT / Systems Analyst,5
+Mumbai,IT / Systems Analyst,5
+Mumbai,Product Analyst,5
+Indore,Business Analyst,5
+Indore,Adjacent Data / Tech Role,5
+Dehradun,Business Analyst,5
+Delhi,IT / Systems Analyst,5
+Thane,Business Analyst,5
+Surat,Business Analyst,5
+Vadodara,Adjacent Data / Tech Role,5
+Jaipur,Other Analyst,5
+Gurgaon,Risk / Compliance Analyst,5
+Gurgaon,IT / Systems Analyst,5
+Delhi,Research Analyst,4
+Navi Mumbai,Data Analyst,4
+Lucknow,Adjacent Data / Tech Role,4
+Gurgaon,HR / People Analyst,4
+Mohali,Adjacent Data / Tech Role,4
+Mohali,IT / Systems Analyst,4
+Thiruvananthapuram,Other Analyst,4
+Lucknow,Business Analyst,4
+Thiruvananthapuram,Adjacent Data / Tech Role,4
+Vadodara,Finance / Accounting Analyst,4
+Coimbatore,Business Analyst,4
+Chennai,Sales / Marketing Analyst,4
+Ghaziabad,Research Analyst,4
+Ghaziabad,IT / Systems Analyst,4
+Thane,Risk / Compliance Analyst,4
+Thiruvananthapuram,Non-Analyst Role,3
+Mohali,Data Analyst,3
+Valsad,Non-Analyst Role,3
+Kochi,Adjacent Data / Tech Role,3
+Nashik,Non-Analyst Role,3
+Mumbai,Sales / Marketing Analyst,3
+Surat,Adjacent Data / Tech Role,3
+Thane,Finance / Accounting Analyst,3
+Surat,Non-Analyst Role,3
+Gandhinagar,Business Analyst,3
+Mohali,Non-Analyst Role,3
+Ahmedabad,Research Analyst,3
+Kolkata,Research Analyst,3
+Kolkata,Quality / Testing Analyst,3
+Kolkata,IT / Systems Analyst,3
+Navi Mumbai,IT / Systems Analyst,3
+Delhi,Product Analyst,3
+Jaipur,Data Analyst,3
+Coimbatore,Sales / Marketing Analyst,3
+Navi Mumbai,Risk / Compliance Analyst,3
+Jaipur,Finance / Accounting Analyst,3
+Ernakulam,Non-Analyst Role,3
+Bharuch,Non-Analyst Role,3
+Bhubaneswar,Adjacent Data / Tech Role,3
+Faridabad,Other Analyst,3
+Rajkot,Business Analyst,3
+Gandhinagar,Other Analyst,3
+Delhi,Sales / Marketing Analyst,3
+Raipur,Non-Analyst Role,3
+Gurgaon,BI / Reporting / MIS,3
+Bhopal,Non-Analyst Role,3
+Nagpur,Adjacent Data / Tech Role,3
+Udaipur,Quality / Testing Analyst,2
+Gandhinagar,Adjacent Data / Tech Role,2
+Faridabad,Quality / Testing Analyst,2
+Surat,Quality / Testing Analyst,2
+Thane,Operations / Supply Chain Analyst,2
+Visakhapatnam,Other Analyst,2
+Thane,Adjacent Data / Tech Role,2
+Indore,Data Analyst,2
+Bhopal,Data Analyst,2
+Bhopal,Adjacent Data / Tech Role,2
+Hyderabad,HR / People Analyst,2
+Patna,Adjacent Data / Tech Role,2
+Puducherry,Business Analyst,2
+Patna,Other Analyst,2
+Patna,Non-Analyst Role,2
+Gurgaon,Sales / Marketing Analyst,2
+Ranchi,Non-Analyst Role,2
+Ghaziabad,Sales / Marketing Analyst,2
+Ghaziabad,Product Analyst,2
+Thrissur,Risk / Compliance Analyst,2
+Ghaziabad,HR / People Analyst,2
+Raipur,Adjacent Data / Tech Role,2
+Raipur,Data Analyst,2
+Allahabad,Adjacent Data / Tech Role,2
+Derabassi,Other Analyst,2
+Ernakulam,Adjacent Data / Tech Role,2
+Pune,Product Analyst,2
+Faridabad,Adjacent Data / Tech Role,2
+Amritsar,Adjacent Data / Tech Role,2
+Bhubaneswar,Business Analyst,2
+Bhubaneswar,Data Analyst,2
+Navi Mumbai,Finance / Accounting Analyst,2
+Indore,Research Analyst,2
+Jaipur,Operations / Supply Chain Analyst,2
+Jaipur,BI / Reporting / MIS,2
+Krishnagiri,Other Analyst,2
+Kochi,Sales / Marketing Analyst,2
+Kolkata,Finance / Accounting Analyst,2
+Krishnagiri,Finance / Accounting Analyst,2
+Jaipur,Research Analyst,2
+Mysore,Business Analyst,2
+Nagpur,Other Analyst,2
+Nagpur,Non-Analyst Role,2
+Jodhpur,Business Analyst,2
+Coimbatore,Data Analyst,2
+Kanpur,Non-Analyst Role,2
+Kanyakumari,Research Analyst,2
+Chimur,Adjacent Data / Tech Role,2
+Lucknow,Data Analyst,2
+Lucknow,Non-Analyst Role,2
+Madurai,Adjacent Data / Tech Role,2
+Madurai,Sales / Marketing Analyst,2
+Madurai,Non-Analyst Role,2
+Mangalore,Non-Analyst Role,2
+Mohali,Finance / Accounting Analyst,2
+Ahmedabad,BI / Reporting / MIS,2
+Thiruvananthapuram,Business Analyst,2
+Vijayawada,Adjacent Data / Tech Role,2
+Visakhapatnam,Non-Analyst Role,2
+Ahmedabad,Sales / Marketing Analyst,2
+Ajmer,Non-Analyst Role,2
+Ahmedabad,Quality / Testing Analyst,2
+Ahmedabad,Finance / Accounting Analyst,2
+Ahmedabad,Risk / Compliance Analyst,1
+Ajmer,Adjacent Data / Tech Role,1
+Alaknanda,Operations / Supply Chain Analyst,1
+Thiruvananthapuram,Data Analyst,1
+Thiruvananthapuram,Finance / Accounting Analyst,1
+Thiruvananthapuram,IT / Systems Analyst,1
+Thiruvananthapuram,Quality / Testing Analyst,1
+Thane,Quality / Testing Analyst,1
+Vadodara,IT / Systems Analyst,1
+Achheja,Quality / Testing Analyst,1
+Vadodara,Product Analyst,1
+Vadodara,Quality / Testing Analyst,1
+Vadodara,Risk / Compliance Analyst,1
+Valsad,Quality / Testing Analyst,1
+Vellore,Other Analyst,1
+Lucknow,Quality / Testing Analyst,1
+Lucknow,Risk / Compliance Analyst,1
+Ludhiana,Business Analyst,1
+Ludhiana,Data Analyst,1
+Ludhiana,Product Analyst,1
+Ludhiana,Quality / Testing Analyst,1
+Ludhiana,Sales / Marketing Analyst,1
+Madurai,Business Analyst,1
+Mangalore,Data Analyst,1
+Mangalore,Sales / Marketing Analyst,1
+Mapusa,Other Analyst,1
+Mathura,Non-Analyst Role,1
+Maurya Enclave,Adjacent Data / Tech Role,1
+Maurya Enclave,Business Analyst,1
+Chennai,Research Analyst,1
+Kochi,IT / Systems Analyst,1
+Kochi,Quality / Testing Analyst,1
+Kochi,Risk / Compliance Analyst,1
+Kolhapur,Business Analyst,1
+Kolkata,Sales / Marketing Analyst,1
+Kota,Data Analyst,1
+Chittoor,Finance / Accounting Analyst,1
+Coimbatore,BI / Reporting / MIS,1
+Coimbatore,Operations / Supply Chain Analyst,1
+Chandigarh,Data Analyst,1
+Chandigarh,Risk / Compliance Analyst,1
+Chandni Chowk,Non-Analyst Role,1
+Chauth Ka Barwara,Non-Analyst Role,1
+Chavakkad,Data Analyst,1
+Mohali,Sales / Marketing Analyst,1
+Jajpur,Other Analyst,1
+Jalandhar,Sales / Marketing Analyst,1
+Jalgaon,Business Analyst,1
+Jalgaon,Non-Analyst Role,1
+Jammu,Adjacent Data / Tech Role,1
+Jammu,Business Analyst,1
+Jammu,Non-Analyst Role,1
+Jamshedpur,Non-Analyst Role,1
+Jodhpur,Finance / Accounting Analyst,1
+Karur,Other Analyst,1
+Mysore,Adjacent Data / Tech Role,1
+Mysore,Quality / Testing Analyst,1
+Nagpur,Data Analyst,1
+Nagpur,IT / Systems Analyst,1
+Nashik,Adjacent Data / Tech Role,1
+Navi Mumbai,BI / Reporting / MIS,1
+Dehradun,Non-Analyst Role,1
+Dehradun,Quality / Testing Analyst,1
+Delhi,Operations / Supply Chain Analyst,1
+Indore,Operations / Supply Chain Analyst,1
+Indore,Quality / Testing Analyst,1
+Indore,Risk / Compliance Analyst,1
+Jabalpur,Non-Analyst Role,1
+Navi Mumbai,Operations / Supply Chain Analyst,1
+Navi Mumbai,Research Analyst,1
+Noida,Non-Analyst Role,1
+Palayankottai,Other Analyst,1
+Panaji,Business Analyst,1
+Patna,Business Analyst,1
+Patna,Data Analyst,1
+Patna,Finance / Accounting Analyst,1
+Ernakulam,Operations / Supply Chain Analyst,1
+Ernakulam,Quality / Testing Analyst,1
+Erode,Data Analyst,1
+Erode,Other Analyst,1
+Faridabad,Finance / Accounting Analyst,1
+Faridabad,Non-Analyst Role,1
+Dadra and Nagar Haveli,Quality / Testing Analyst,1
+Bantval,Non-Analyst Role,1
+Bhavnagar,Non-Analyst Role,1
+Bhopal,Finance / Accounting Analyst,1
+Bhubaneswar,Non-Analyst Role,1
+Aliganj,Other Analyst,1
+Aurangabad,Finance / Accounting Analyst,1
+Aurangabad,Non-Analyst Role,1
+Gwalior,Business Analyst,1
+Gwalior,Other Analyst,1
+Gwalior,Research Analyst,1
+H.S.Sangh,Other Analyst,1
+Hamirpur,Quality / Testing Analyst,1
+Hassan,Quality / Testing Analyst,1
+Hubli,Non-Analyst Role,1
+Dharmapuri,Non-Analyst Role,1
+Durg,Non-Analyst Role,1
+Ernakulam,Business Analyst,1
+Badgaon,BI / Reporting / MIS,1
+Puducherry,Quality / Testing Analyst,1
+Pune,HR / People Analyst,1
+Raigarh,Adjacent Data / Tech Role,1
+Raipur,Business Analyst,1
+Roorkee,Non-Analyst Role,1
+Saket,Non-Analyst Role,1
+Saket,Risk / Compliance Analyst,1
+Salem,Data Analyst,1
+Salem,Finance / Accounting Analyst,1
+Gandhinagar,Non-Analyst Role,1
+Gandhinagar,Risk / Compliance Analyst,1
+Gulbarga,Adjacent Data / Tech Role,1
+Thrissur,Non-Analyst Role,1
+Udaipur,Research Analyst,1
+Una,Research Analyst,1
+Vadodara,BI / Reporting / MIS,1
+Vadodara,Business Analyst,1
+Faridabad,Research Analyst,1
+Faridabad,Risk / Compliance Analyst,1
+Gandhidham,Non-Analyst Role,1
+Satara,Sales / Marketing Analyst,1
+Shimoga,Adjacent Data / Tech Role,1
+Sonipat,Non-Analyst Role,1
+Surat,Data Analyst,1
+Thane,Data Analyst,1
+Thane,IT / Systems Analyst,1
+Thane,Non-Analyst Role,1
+Yamunanagar,Finance / Accounting Analyst,1
