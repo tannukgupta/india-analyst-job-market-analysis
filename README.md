@@ -1,6 +1,6 @@
 # India Analyst Job Market Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 An end-to-end data analytics project analyzing analyst job postings in India.
 
@@ -17,7 +17,7 @@ The project covers the complete analytics workflow from API data collection and 
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 This project answers the following questions:
 
@@ -31,7 +31,7 @@ This project answers the following questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -46,7 +46,7 @@ This project answers the following questions:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Adzuna API
